@@ -54,3 +54,6 @@ em resumo esse método serve para carregar arquivos salvos no CSV
 
 1. Identifica o método HTTP e a rota acessada
 2. dependendo do métodoe do caminho, executado os dados armazenados nas arrays de lista de tarefas
+
+# Avaliação do projeto:
+é um projeto que abre um servidor local e chama um HTML CSS JavaScript para criar um task manager interativo que consegue salvar CSV da lista do usuário para que ele consiga abrir mais tarde, o código é bem extenso e não possui divisão de classes, o que eu proponho para a melhora desse sistema é trabalhar nele de forma orientada a objetos.
